@@ -1,2 +1,54 @@
 # ML_for_economics
 A beginner-friendly Machine Learning repository for BITS students, covering ML concepts, Python implementations, datasets, notebooks, econometric applications, and practical projects. Designed as a one-stop learning resource to help students understand, practice, and apply machine learning in academics and research.
+
+# Machine Learning for Economics
+
+A beginner-friendly introduction to Machine Learning for students of Economics, Econometrics, Finance, and related disciplines.
+
+This repository connects fundamental Machine Learning algorithms with classic economic and financial problems. Each model includes a practical dataset, Python implementation, data analysis, model evaluation, and interpretation of results.
+
+---
+
+## Models Covered
+
+| No. | Model | Learning Type | Economic Application |
+|---|---|---|---|
+| 1 | Linear Regression | Supervised | Wage Determination |
+| 2 | Logistic Regression | Supervised | Loan Default Prediction |
+| 3 | Decision Tree | Supervised | Unemployment Classification |
+| 4 | Random Forest | Supervised | House Price Prediction |
+| 5 | K-Means Clustering | Unsupervised | Consumer Segmentation |
+
+---
+
+# 1. Linear Regression
+
+## Introduction
+
+Linear Regression is one of the simplest and most widely used supervised Machine Learning algorithms.
+
+It predicts a **continuous numerical variable** using one or more explanatory variables.
+
+For Economics students, Linear Regression is particularly important because it provides a direct connection between **Machine Learning and Econometrics**.
+
+### Classic Economic Example
+
+### Wage Determination
+
+**Research Question:**
+
+> How do education and work experience affect an individual's wage?
+
+### Variables
+
+- `hourly_wage` → Dependent variable
+- `education_years` → Years of education
+- `experience_years` → Years of work experience
+- `age` → Age of individual
+
+### Economic Model
+
+The basic relationship can be represented as:
+
+```text
+Wage = β₀ + β₁ Education + β₂ Experience + ε
