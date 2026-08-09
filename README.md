@@ -1,11 +1,5 @@
 
-# Machine Learning for Economics
 
-A beginner-friendly introduction to Machine Learning for students of Economics, Econometrics, Finance, and related disciplines.
-
-This repository connects fundamental Machine Learning algorithms with classic economic and financial problems. Each model includes a practical dataset, Python implementation, data analysis, model evaluation, and interpretation of results.
-
----
 # Machine Learning for Economics
 
 A practical and beginner-friendly repository for learning Machine Learning through Economics, Econometrics, Finance, and real-world economic problems.
